@@ -1,3 +1,4 @@
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMFeqGTwp60LVYCk95nAMuKaURfOfDv8EX0tMZ76OyVvUsB8jfg)
 # The VBA of Wall Street
 # Background:
 Use VBA scripting to analyze real stock market data.
